@@ -1,4 +1,3 @@
-# py
 #Bill Calculator
 
 a = float(input("Enter 1st number : "))
